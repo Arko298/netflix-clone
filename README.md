@@ -20,14 +20,17 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Stripe unavalable 
 
-To learn more about Next.js, take a look at the following resources:
+Stripe is not available right now for Indian user, so money related works like subscription has not been done.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contribute
+If any one wants to contribute then they are free to create an issue and then a pull request. I will merge the updated changes as soon as possible
+Steps to contribute
+- Fork it
+- Create a folder in your local machine and clone it.
+- To clone ` git clone <Copied url>` in vscode command pallate.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
